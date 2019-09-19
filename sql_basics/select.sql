@@ -1,0 +1,1 @@
+select first_name, last_name from person join order_item on person.id = order.person_id
